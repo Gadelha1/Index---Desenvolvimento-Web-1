@@ -1,0 +1,31 @@
+#nav1{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #243a69;
+    padding: 2px;
+}
+#section1{
+    display:flex;
+    justify-content: space-around;
+}
+#section2{
+    display:flex;
+    justify-content: space-evenly;
+}
+#footer{
+    text-align: center;
+    background-color: #243a69;
+    width: 100%;
+    border: solid 2px black;
+    position: fixed;
+    bottom: 0;
+}
+#img{
+    width: 70px;
+    align-items: flex-start
+}
+
+
